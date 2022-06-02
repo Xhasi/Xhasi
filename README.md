@@ -6,4 +6,4 @@ The project is called [ISS Daily Reports](https://sage-smakager-bccb8d.netlify.a
 ## You can find me <br/>
 - Sharing progress on [Linkedin](https://www.linkedin.com/in/xhasumzi-maphukatha-dlamini)<br/>
 - Posting articles the world of IT on [DEV Community](https://dev.to/xhasi)<br/>
-- Sharing Designs and Posting on [Instagram](https://dev.to/xhasi](http://Instagram.com/xhasumzi_maphukatha)<br/>
+- Sharing Designs and Posting on [Instagram](http://Instagram.com/xhasumzi_maphukatha)<br/>
