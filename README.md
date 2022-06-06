@@ -12,9 +12,8 @@ The project is called [ISS Daily Reports](https://sage-smakager-bccb8d.netlify.a
 - Posting articles about the world of IT on [DEV Community](https://dev.to/xhasi)<br/>
 - Sharing Designs and Posting on [Instagram](http://Instagram.com/xhasumzi_maphukatha)<br/>
 
+## My Resume<br/>
+- [My CV (Online PDF)]()
 
 
-- [My CV (Online PDF]()
-
-
-- My CV [Online Resume](https://resume.io/r/lsSqaBobM)
+- [My CV Online Resume](https://resume.io/r/lsSqaBobM)
