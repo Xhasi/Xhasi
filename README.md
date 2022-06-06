@@ -14,6 +14,4 @@ The project is called [ISS Daily Reports](https://sage-smakager-bccb8d.netlify.a
 
 ## My Resume<br/>
 - [My CV (Online PDF)]()
-
-
 - [My CV Online Resume](https://resume.io/r/lsSqaBobM)
