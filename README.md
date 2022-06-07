@@ -13,5 +13,6 @@ The project is called [ISS Daily Reports](https://sage-smakager-bccb8d.netlify.a
 - Sharing Designs and Posting on [Instagram](http://Instagram.com/xhasumzi_maphukatha)<br/>
 
 ## My Resume<br/>
-- [My CV (Online PDF)]()
+- [My CV (Online PDF)](https://github.com/Xhasi/Xhasi/files/8855582/Xhasumzi_Maphukatha_-_Leadership_Program_at_Aurecon.1.1.pdf)
+
 - [My CV Online Resume](https://resume.io/r/lsSqaBobM)
